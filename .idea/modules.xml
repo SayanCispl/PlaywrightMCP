@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../PythonDemo/PythonPractices.iml" filepath="$PROJECT_DIR$/../PythonDemo/PythonPractices.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/PyCharmMiscProject.iml" filepath="$PROJECT_DIR$/PyCharmMiscProject.iml" />
+>>>>>>> 81feabb (25-11-2025)
     </modules>
   </component>
 </project>
