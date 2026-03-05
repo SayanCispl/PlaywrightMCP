@@ -1,3 +1,5 @@
+#Reverse a string using a loop
+
 text = "Automation"
 reversed_text = ""
 for char in text:
