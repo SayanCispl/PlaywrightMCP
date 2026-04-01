@@ -7,3 +7,6 @@ print(student_grades.count('A'))
 
 
 print('Sorted student grades:', sorted(student_grades))
+print(student_grades.insert(0, 'D'))
+print(student_grades.remove('A'))
+
